@@ -1,10 +1,10 @@
-# darkfb
-Script dark fb v1.7 terbaru
+# IdanHACKING
+Script IdanHACKING v1 terbaru
 
 # cara menggunakan
 
 <!-- wp:code -->
-<pre class="wp-block-code"><code>http://termux.id/cara-hack-facebook-menggunakan-termux-script-dark-fb/</code></pre>
+<pre class="wp-block-code"><code>http://termux.id/cara-hack-facebook-menggunakan-termux-script-idan-hacking/</code></pre>
 <!-- /wp:code -->
 
 # tetap terhubung
